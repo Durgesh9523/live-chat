@@ -1,3 +1,4 @@
+#LIVE CHAT APPLICATION
 The Live-Chat Application is a Node.js-based project incorporating Express.js, Socket.IO, and MySQL to facilitate seamless, text-based communication among users. With features like user registration, authentication, and session management, it provides a dynamic platform for real-time interaction without the need for page refreshes.
 
 To set up the application, ensure Node.js is installed, clone the repository, and install dependencies using npm. Start the server with `node app.js` and access the application through a web browser at `http://localhost:3000`.
